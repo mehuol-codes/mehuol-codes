@@ -1,15 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently working on GoSign, InfoCert's e-signature platform used by millions across Europe. I build event-driven Spring Boot microservices with Kafka, CloudEvents and a transactional outbox, and I'm refactoring the Admin service to Hexagonal Architecture and DDD.
+🔭 I’m currently working on **GoSign**, InfoCert's e-signature platform used by millions across Europe. I build event-driven Spring Boot microservices with Kafka, CloudEvents and a transactional outbox, and I'm refactoring the Admin service to Hexagonal Architecture and DDD.
 
-👯 I’m looking to collaborate on open-source Spring Boot / Kafka projects, event-driven architecture examples, and backend tools that deal with real production problems.
+👯 I’m looking to collaborate on open-source **Spring Boot / Kafka** projects, event-driven architecture examples, and backend tools that deal with real production problems.
 
-🤝 I’m looking for help with system design at scale and distributed systems trade-offs as I grow toward a Solutions Architect role.
+🤝 I’m looking for help with **system design at scale** and **distributed systems trade-offs** as I grow toward a Solutions Architect role.
 
-🌱 I’m currently learning GraalVM native images, advanced reactive programming (WebFlux, Project Reactor, virtual threads) and German 🇩🇪 (heading to A2).
+🌱 I’m currently learning **GraalVM native images**, advanced **reactive programming** (WebFlux, Project Reactor, virtual threads) and **German** 🇩🇪 (heading to A2).
 
-💬 Ask me about Java, Spring Boot, Kafka, microservices, OAuth2/Keycloak, DDD/Hexagonal Architecture or fintech payment systems (I built B2B payment services handling 10,000+ TPS).
+💬 Ask me about **Java, Spring Boot, Kafka, microservices, OAuth2/Keycloak, DDD/Hexagonal Architecture** or **fintech payment systems** (I built B2B payment services handling 10,000+ TPS).
 
-⚡ Fun fact: I finished my BSCS while working full-time as a developer. I'm also writing a LinkedIn series called 30 Days of Production-Ready Spring Boot.
+⚡ Fun fact: I finished my BSCS while working full-time as a developer. I'm also writing a LinkedIn series called **30 Days of Production-Ready Spring Boot**.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mehuol-dhanji/) 
